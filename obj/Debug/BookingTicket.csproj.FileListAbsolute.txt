@@ -1,0 +1,8 @@
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.AssemblyReference.cache
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.SuggestedBindingRedirects.cache
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.CoreCompileInputs.cache
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.exe.config
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.exe
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.pdb
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.exe
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.pdb
