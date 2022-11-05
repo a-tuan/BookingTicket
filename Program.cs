@@ -125,7 +125,6 @@ namespace BookingTicket
             Console.WriteLine("6. Log out.");
 
         }
-
         static void LoginAsCustomer(List<Movie> movies, List<ImaxMovie> imaxes, List<Booking> bookings)
         {
             Customer customer1 = new Customer();
